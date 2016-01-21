@@ -1,4 +1,4 @@
-#Distributed File System
+#Deterministic Finite Automata
 
 The purpose of this project is to implement a DFA that uses absolutely no memory other than the functions argument. It's just a simple exercise. The trick is to use labels. The dfa has the following specifications: 
 
